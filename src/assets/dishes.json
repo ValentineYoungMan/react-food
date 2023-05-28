@@ -1,0 +1,1015 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/soupbread/sup-losos-sudak-385x240.jpg",
+    "name": "Суп з лососем та судаком",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 20],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/soupbread/krem-supgribnoj-385x240.jpg",
+    "name": "Крем-суп грибний",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/203014-385x240.jpg",
+    "name": "Бульйон з домашньою пастою і куркою",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [2, 18],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/105032.png",
+    "name": "Сирний суп з тортеліні",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 24],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/103016.png",
+    "name": "Курячий бульйон з домашньою локшиною",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [2],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/FIdAQ5Smqbs1Q1ksQJ2sUXE8Y3FqFN6fktFZOUco.webp",
+    "name": "Місо суп",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 3],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/abs6Fxn7y1KgIojH9ABDVXfByCvpV0ZeNLFMZ7oF.webp",
+    "name": "Сирний місо суп з лососем",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 20, 24],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/AmyeEei8bfjIwFc8vqq5XR5CS3sl6JC6CITUasVY.webp",
+    "name": "Том Ям з креветками",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [2, 4, 22],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/kY9HZYeHKNa4RCMCWQGHzhcIxQpcPzHHwvOke9aW.webp",
+    "name": "Сирний Місо суп з куркою",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 3, 18, 24],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/MAyKdQhM5ww9u7qaKzTkFnyl6bbDyanGRHZ3e6pl.webp",
+    "name": "Том Ям з куркою",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [2, 4, 18],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/8ILnrgxawshmq5iPFfBcqask9bcsV5iEmG78a6qC.webp",
+    "name": "Суп Рамен Шую з яловичиною",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 5, 7],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/jzxVi4mr44QBXvWhkpASdCuFSyeiM3BZVfatnpQu.webp",
+    "name": "Суп Рамен Шую з куркою",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [1, 2, 18],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/pastaraviolirizoto/spagetti-karbonara-385x240.jpg",
+    "name": "Спагеті з соусом Карбонара",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [12, 4, 23],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "13",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/pastaraviolirizoto/pene-s-boloneze-385x240.jpg",
+    "name": "Пене з м`ясним соусом Болоньєзе",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 5, 17, 31, 34],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "14",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/pastaraviolirizoto/pasta-s-krevetkami-385x240.jpg",
+    "name": "Паста з креветками",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [13, 25],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "15",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/pastaraviolirizoto/lazanja-boloneze-385x240.jpg",
+    "name": "Лазанья Болоньєзе",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 10, 24, 29, 32],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "16",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/103027.png",
+    "name": "Спагеті болоньєзе",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 21, 31],
+    "rating": 10,
+    "weight": 500
+  },
+
+  {
+    "id": "17",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/387024.png",
+    "name": "Рисова локшина з овочами",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "18",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/387019.png",
+    "name": "Локшина Соба з телятиною",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "19",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/452013.png",
+    "name": "Смажена локшина удон з куркою",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 26, 31],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "20",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/387018.png",
+    "name": "Смажена локшина удон з телятиною",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 4],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "21",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/387016.png",
+    "name": "Рисова локшина з морепродуктами",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 7],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "22",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/387023.png",
+    "name": "Локшина Удон з креветками",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [3, 9],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "23",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/5IaefNPFQuRnCrFEmrn0toHG2xMHbXMv7A3elAeJ.webp",
+    "name": "Курячий шніцель з картоплею фрі",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [4, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "24",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/iDPS1RuzDJdKofDrKGkYGqUbBU5qgKnX55ydhHTW.webp",
+    "name": "Яловичий пеппер-стейк з гарніром",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [4, 15, 27],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "25",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/16303950310.webp",
+    "name": "Курячий стейк на грилі з ананасом",
+    "price": 210,
+    "category": 1,
+    "subcategoriesIds": [4, 16, 20, 24],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "26",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/393004.png",
+    "name": "Теріякі курка",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "27",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/393008.png",
+    "name": "Спайси лосось на шкiрi з жасминовим рисом",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 8],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "28",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/soupbread/227023-385x240.jpg",
+    "name": "Стейк з лосося",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 10, 15, 20],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "29",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/IRlqOJNktszexFVsG0wyOJH5bZgCkm4XupJXo78F.webp",
+    "name": "Рисові чіпси",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 16],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "30",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/salat-grecheskij-385x240.jpg",
+    "name": "Салат Грецький",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "31",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/202045-385x240.jpeg",
+    "name": "Теплий салат з куркою",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 7, 8, 9, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "32",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/oseledec-kartoplja-385x240.jpg",
+    "name": "Оселедець з картоплею та маринованою цибулею",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [4, 7, 14, 27, 29, 31],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "33",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe/202044-385x240.jpg",
+    "name": "Салат з печінкою та виноградом",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "34",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/cezar-s-kuricej-385x240.jpg",
+    "name": "Цезарь з теплим курячим філе",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 10],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "35",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/newphoto/cezarsite-385x240.jpg",
+    "name": "Цезар з креветками",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "36",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/salat-s-teljatinoj-385x240.jpg",
+    "name": "Ситний салат з телятиною",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 15],
+    "rating": 10,
+    "weight": 500
+  },
+
+  {
+    "id": "37",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/salatslososem-385x240.jpg",
+    "name": "Салат з лососем",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 18],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "38",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/salat-s-buratoj-385x240.jpg",
+    "name": "Салат з сиром Бурата та руколою ",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [6, 7],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "39",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/assortimjasnoe-385x240.jpg",
+    "name": "Антіпасті м'ясне",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [7, 8],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "40",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/banket/zakuskisalaty/syrnoe-assorti-385x240.jpg",
+    "name": "Антіпасті сирне",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [9, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "41",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/103115.png",
+    "name": "Брускети капрезе з ростбіфом",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 10, 29],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "42",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/103116.png",
+    "name": "Брускети з слабосоленим лососем",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 16, 23],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "43",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/394004.png",
+    "name": "Смажені скибочки сиру з соусом із журавлини",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5, 14, 18, 27],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "44",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/394041.png",
+    "name": "Кальмар з соусом Кара Аге",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [5],
+    "rating": 10,
+    "weight": 500
+  },
+
+  {
+    "id": "45",
+    "imageUrl": "https://pesto-family.com/image/cache/catalog/pestocafe-%29/deserty/napoleon-385x240.jpg",
+    "name": "Наполеон",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "46",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/1546049.png",
+    "name": "Брауні банановий",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10, 20],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "47",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/395068.png",
+    "name": "Чізкейк з солоною карамеллю",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10, 30],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "48",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/395008.png",
+    "name": "Чізкейк з чорницею",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10, 35],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "49",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/4399001.png",
+    "name": "Тірамісу",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10, 36],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "50",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/4330019.png",
+    "name": "Горішок зі згущеним молоком",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10, 11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "51",
+    "imageUrl": "https://i.evrasia.in.ua/data/558_0/products/tfrR7I52Tz76XXOELLPSMLHFGsTEm6QxLTYex6aB.webp",
+    "name": "Крем-брюле",
+    "price": 210,
+    "category": 2,
+    "subcategoriesIds": [10],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "52",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570008.png",
+    "name": "Піца Карбонара",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "53",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570004.png",
+    "name": "Піца Баварська",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 12],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "54",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570012.png",
+    "name": "Піца Гавайська",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 36],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "55",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/5549004.png",
+    "name": "Піца Курка з грибами",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 35, 36],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "56",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570015.png",
+    "name": "Піца Пепероні",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "57",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570006.png",
+    "name": "Піца Маргарита",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 14],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "58",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570007.png",
+    "name": "Піца 5 сирів",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 18],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "59",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570057.png",
+    "name": "Піца Американо",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 31],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "60",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/5549001.png",
+    "name": "Піца Папероні з дорблю",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "61",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/5549003.png",
+    "name": "Піца Мисливська барбекю",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "62",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/570062.png",
+    "name": "Піца М’ясна з сиром дорблю",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "63",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/5549002.png",
+    "name": "Піца Шинка з ананасом",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11, 28],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "64",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/497071.png",
+    "name": "Піца Курка з сиром чедер",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "65",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/497064.png",
+    "name": "Піца М’ясний мікс",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "66",
+    "imageUrl": "https://www.tarantino-family.com/wp-content/uploads/497008.png",
+    "name": "Піца Фірмова",
+    "price": 210,
+    "category": 3,
+    "subcategoriesIds": [11],
+    "rating": 10,
+    "weight": 500
+  },
+  {
+    "id": "67",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/filaslososem-1000x1000.jpg",
+    "name": "Філадельфія з лососем",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "68",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/filastunzem-1000x1000.jpg",
+    "name": "Філадельфія з тунцем",
+    "price": 240,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "69",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/filasugrem-1000x1000.jpg",
+    "name": "Філадельфія з вугром і омлетом тамаго",
+    "price": 230,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "70",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/%20%D1%80%D0%BE%D0%BB%20%D0%B7%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC%20-1000x1000.jpg",
+    "name": "Теплий рол з лососем",
+    "price": 250,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "71",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/%20%D0%B7%20%D1%82%D1%83%D0%BD%D1%86%D0%B5%D0%BC%20%D1%82%D0%B0%20%D0%BA%D1%80%D0%B5%D0%BC-%D1%81%D0%B8%D1%80%D0%BE%D0%BC%20%D0%B2%20%D0%BA%D1%83%D0%BD%D0%B6%D1%83%D1%82%D1%96-1000x1000.jpg",
+    "name": "Рол з тунцем та крем-сиром в кунжуті",
+    "price": 220,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "72",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/%20%D0%B7%D1%96%20%D1%81%D0%BB%D0%B0%D0%B1%D0%BE%D1%81%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%BC%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC%20%D1%96%20%D1%87%D0%BE%D1%80%D0%BD%D0%BE%D1%8E%20%D1%96%D0%BA%D1%80%D0%BE%D1%8E%20%D0%BC%D0%B0%D1%81%D0%B0%D0%B3%D0%BE-1000x1000.jpg",
+    "name": "Каліфорнія з лососем і чорною ікрою масаго",
+    "price": 220,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "73",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/%20%D0%B7%20%D1%82%D1%83%D0%BD%D1%86%D0%B5%D0%BC%20%D1%96%20%D1%87%D0%BE%D1%80%D0%BD%D0%BE%D1%8E%20%D1%96%D0%BA%D1%80%D0%BE%D1%8E%20%D0%BC%D0%B0%D1%81%D0%B0%D0%B3%D0%BE-1000x1000.jpg",
+    "name": "Каліфорнія з тунцем і чорною ікрою масаго",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "74",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/%20%D0%B7%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC%20%D1%82%D0%B0%20%D0%BA%D1%80%D0%B5%D0%BC-%D1%81%D0%B8%D1%80%D0%BE%D0%BC%20%D0%B2%20%D0%BA%D1%83%D0%BD%D0%B6%D1%83%D1%82%D1%96-1000x1000.jpg",
+    "name": "Рол з лососем та крем-сиром в кунжуті",
+    "price": 220,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "75",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/sirniyrol-1000x1000.jpg",
+    "name": "Сирний рол з лососем і креветкою",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "76",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/kalzkoplosos-1000x1000.jpg",
+    "name": "Філадельфія з копченим лососем",
+    "price": 230,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "77",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/rolztunzemustrujzi-1000x1000.jpg",
+    "name": "Рол з тунцем у стружці, крем-сиром і огірками",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "78",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/Kalzsnkrab-1000x1000.jpg",
+    "name": "Каліфорнія з cніжним крабом",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "79",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/Fzttikrevt-1000x1000.jpg",
+    "name": "Філадельфія з тунцем татакі і креветкою темпура",
+    "price": 240,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "80",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/Fzltikrte-1000x1000.jpg",
+    "name": "Філадельфія з лососем татакі і креветкою темпура",
+    "price": 240,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "81",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/kalifakopchena-1000x1000.jpg",
+    "name": "Каліфорнія з копченим лососем",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12, 15],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "82",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/avokado-1000x1000.jpg",
+    "name": "Авокадо-рол з вугром і крем-сиром ",
+    "price": 200,
+    "category": 4,
+    "subcategoriesIds": [12, 18, 24, 27, 31],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "83",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/kalzvugrem-1000x1000.jpg",
+    "name": "Каліфорнія з вугром",
+    "price": 200,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "84",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/kalzlososem-1000x1000.jpg",
+    "name": "Каліфорнія з лососем",
+    "price": 200,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "85",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/schukoy-1000x1000.jpg",
+    "name": "Теплий рол з лососем, сніжним крабом і чукою",
+    "price": 200,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "86",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/Roltatakiztunzem-1000x1000.jpg",
+    "name": "Рол татакі з лососем і тунцем",
+    "price": 210,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+
+  {
+    "id": "87",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/makizvugrem-1000x1000.jpg",
+    "name": "Макі з вугром",
+    "price": 91,
+    "category": 4,
+    "subcategoriesIds": [12, 34],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "88",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/makiztunzem-1000x1000.jpg",
+    "name": "Макі з тунцем",
+    "price": 92,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "89",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/makizogirok-1000x1000.jpg",
+    "name": "Макі з огірком",
+    "price": 89,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "90",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/makiavokado2-1000x1000.jpg",
+    "name": "Макі з авокадо",
+    "price": 90,
+    "category": 4,
+    "subcategoriesIds": [12, 35, 36],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "91",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/Sushi-Roli/makizlososem-1000x1000.jpg",
+    "name": "Макі з лососем",
+    "price": 98,
+    "category": 4,
+    "subcategoriesIds": [12],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "92",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/sushilosos-mal-1000x1000.jpg",
+    "name": "Суші нігірі Лосось",
+    "price": 54,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "93",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/sushiugor-mal-1000x1000.jpg",
+    "name": "Суші нігірі Вугор",
+    "price": 52,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "94",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/Sush%D1%96-n%D1%96g%D1%96r%D1%96-Krevetka-mal-1000x1000.jpg",
+    "name": "Суші нігірі Креветка",
+    "price": 53,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "95",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/tunez2-mal-1000x1000.jpg",
+    "name": "Суші нігірі Тунець",
+    "price": 55,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "96",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/_%D0%B7%20%D0%B2%D1%83%D0%B3%D1%80%D0%BE%D0%BC%20%D1%83%D0%BD%D0%B0%D0%B3%D1%96-mal-1000x1000.jpg",
+    "name": "Гункан з вугром унагі",
+    "price": 56,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "97",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/losos%20mal-1000x1000.jpg",
+    "name": "Гункан з гострим лососем",
+    "price": 58,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "98",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/tunwz%20mal-1000x1000.jpg",
+    "name": "Гункан з гострим тунцем",
+    "price": 57,
+    "category": 4,
+    "subcategoriesIds": [13],
+    "rating": 8,
+    "weight": 500
+  },
+  {
+    "id": "99",
+    "imageUrl": "https://bagatolososia.kiev.ua/image/cache/catalog/NIgiri-gunkani/mal%20chuka-1000x1000.jpg",
+    "name": "Гункан з чукою",
+    "price": 53,
+    "category": 4,
+    "subcategoriesIds": [13, 15, 19, 23, 31],
+    "rating": 8,
+    "weight": 500
+  }
+]

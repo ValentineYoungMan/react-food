@@ -1,0 +1,68 @@
+.aside__section {
+  border: 1px solid #e3e3e3;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+  margin-bottom: 20px;
+}
+.title {
+  padding: 14px 16px;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid #eee;
+}
+.content {
+  padding: 14px 16px 16px 16px;
+}
+.content__title {
+  font-weight: 300;
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #696969;
+}
+.customSelect {
+  cursor: pointer;
+  position: relative;
+}
+.customSelect__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 12px;
+  background-color: #e4e7eb;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  &:hover {
+    background-color: #838485;
+    transition: 0.3s;
+  }
+}
+.customSelect__title {
+}
+.triangle {
+  font-size: 20px;
+}
+.customSelect__popup {
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+  position: absolute;
+  background-color: #ffffff;
+  z-index: 40;
+  width: 100%;
+  //display: none;
+}
+.customSelect__property {
+  padding: 8px 10px;
+  font-size: 14px;
+  transition: 0.3s;
+  &:hover {
+    background-color: #c7c7c7;
+    transition: 0.3s;
+  }
+  &:active {
+  }
+}
+.customSelect__property__active {
+  font-weight: 700;
+  background-color: #838485;
+}

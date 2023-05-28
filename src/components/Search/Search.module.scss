@@ -1,0 +1,51 @@
+.search {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  //width: 95%;
+  overflow: hidden;
+  border-radius: 50px;
+  margin: 30px auto;
+  display: flex;
+  align-items: center;
+  height: 62px;
+}
+.inputContainer {
+  flex: 1 0 auto;
+  height: 100%;
+  padding: 10px 60px;
+  position: relative;
+}
+.input {
+  font-size: 24px;
+  font-family: 'Source sans pro', sans-serif;
+  letter-spacing: 1px;
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.clearIcon {
+  width: 30px;
+  height: 30px;
+  opacity: 0.3;
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translate(0%, -50%);
+  transition: 0.2s;
+  cursor: pointer;
+  &:hover {
+    transition: 0.2s;
+    opacity: 0.8;
+  }
+}
+.button {
+  display: block;
+  padding: 20px 40px;
+  height: 100%;
+  background-color: rgb(4, 111, 204);
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Source sans pro', sans-serif;
+  font-weight: 600;
+  border: 1px solid rgb(4, 111, 204);
+}

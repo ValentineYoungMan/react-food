@@ -1,0 +1,92 @@
+/*Обнуление*/
+* {
+  padding: 0; /*Видаляємо всі відступи і межі*/
+  margin: 0; /* - це звернення до всіх тегів на сторінці*/
+  border: 0;
+}
+*,
+*:before,
+*:after {
+  /*міняє пірахунок ширини блока так щоб було зручніше верстати*/
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+:focus,
+:active {
+  outline: none;
+} /*прибираємо лінії обводки в деяких браузерах*/
+a:focus,
+a:active {
+  outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+  display: block;
+} /*перечисляємо деякі хтмл теги і додаємо їм значення блок, що робить їх блочними*/
+
+html,
+body {
+  /*прирівнюємо поведінку шрифтів і елементів для різних браузерів*/
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+input,
+button,
+textarea {
+  font-family: inherit;
+} /*наслідування сімейства шрифта*/
+
+input::-ms-clear {
+  display: none;
+} /*прибираєть хрестик в інтернет експлорері*/
+button {
+  cursor: pointer;
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: 400;
+} /*обнуляємо всі заголовки*/
+/*--------------------*/
+
+.wrapper {
+  font-family: 'Source sans pro', sans-serif;
+}
+.container {
+  min-width: 1170px;
+  width: 95%;
+  margin: 0 auto;
+  padding-bottom: 100px;
+}
